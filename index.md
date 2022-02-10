@@ -1,7 +1,7 @@
 # FRONT-END
-* [HTML](./docs/html/menu.html)
-* [CSS](./docs/css/menu.html)
-* [Typescript](./docs/typescript/menu.html)
+* [HTML](./docs/html/menu.md)
+* [CSS](./docs/css/menu.md)
+* [Typescript](./docs/typescript/menu.md)
 
 # BACK-END
-* [MySQL](./docs/mysql/menu.html)
+* [MySQL](./docs/mysql/menu.md)
