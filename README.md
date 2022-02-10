@@ -1,2 +1,0 @@
-# katyshu.github.io
-Cursos
