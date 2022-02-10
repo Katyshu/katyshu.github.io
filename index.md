@@ -1,7 +1,7 @@
 # FRONT-END
-> ### [HTML](./docs/html/menu.md)
-> ### [CSS](./docs/css/menu.md)
-> ### [Typescript](./docs/typescript/menu.md)
+> ### [HTML](./docs/html/menu.html)
+> ### [CSS](./docs/css/menu.html)
+> ### [Typescript](./docs/typescript/menu.html)
 
 # BACK-END
-> ### [MySQL](./docs/mysql/menu.md)
+> ### [MySQL](./docs/mysql/menu.html)
