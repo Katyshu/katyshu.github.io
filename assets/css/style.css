@@ -6,18 +6,20 @@ body {
     flex-direction: row;
     width: 100%;
 } 
-body > #cuerpo {
-    width: 60%;
+#cuerpo-principal {
+    width: 75%;
+    left: 35%;
 }
 header {
-/*   width: 40%; /* ancho completo */
-   background: #060609;
-   color: #d7d6ee; /* color texto */
-   height: 100%; /* altura completa */
-   left: 1%; /* pegada a la izquierda */
-   position: fixed; /* posición fija */
+    width: 34%;
+    font-size: larger;
+    background: #060609;
+    color: #d7d6ee; /* color texto */
+    height: 100%; /* altura completa */
+    left: 1%; /* pegada a la izquierda */
+    position: fixed; /* posición fija */
 }
-body > footer{
+footer{
     color: azure;
     text-align: right;
     width: 99%;
