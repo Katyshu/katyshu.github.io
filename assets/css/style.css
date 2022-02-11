@@ -1,3 +1,26 @@
-body{
-  background-color: #19a2ae;
+html{
+ background: #160f15;
+}
+body {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+} 
+body > #cuerpo {
+    width: 60%;
+}
+header {
+/*   width: 40%; /* ancho completo */
+   background: #060609;
+   color: #d7d6ee; /* color texto */
+   height: 100%; /* altura completa */
+   left: 1%; /* pegada a la izquierda */
+   position: fixed; /* posición fija */
+}
+body > footer{
+    color: azure;
+    text-align: right;
+    width: 99%;
+    position: fixed;
+    bottom: 1%;
 }
