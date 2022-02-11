@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="stylesheet" href="CSS/main.css" />
+    <link rel="stylesheet" href="assets/css/style.css" />
     <title>Índice</title>
   </head>
   
