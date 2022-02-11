@@ -1,7 +1,15 @@
-# FRONT-END
-> ### [HTML](./docs/html/menu.html)
-> ### [CSS](./docs/css/menu.html)
-> ### [Typescript](./docs/typescript/menu.html)
-
-# BACK-END
-> ### [MySQL](./docs/mysql/menu.html)
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="CSS/main.css" />
+    <title>Índice</title>
+  </head>
+  
+  <body>
+    Prueba
+    <footer>
+    </footer>
+  </body>
+  
+</html>
