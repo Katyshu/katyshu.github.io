@@ -1,23 +1,24 @@
 html{
- background: #160f15;
+    background-color: #060609;
+    font-size: xx-large;
+    margin: -1%;
 }
-body {
-    display: flex;
-    flex-direction: row;
-    width: 100%;
-} 
-#cuerpo-principal {
-    width: 75%;
-    left: 35%;
+.cuerpo-principal {
+    background: #897088;
+    margin-left: 38%;
+    padding: 3%;
 }
-header {
-    width: 34%;
-    font-size: larger;
-    background: #060609;
+.menu-lateral {
+    background-color: #060609;
     color: #d7d6ee; /* color texto */
-    height: 100%; /* altura completa */
-    left: 1%; /* pegada a la izquierda */
+    font-size: x-large;
+    width: 35%;
+    height: 100%;
+    top:0; /* pegada arriba*/
+    left: 0; /* pegada a la derecha*/
     position: fixed; /* posición fija */
+    padding-left: 3%;
+    padding-right: 2%;
 }
 footer{
     color: azure;
