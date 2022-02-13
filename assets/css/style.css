@@ -4,8 +4,8 @@ html{
 }
 @media screen and (max-width: 730px){
    .menu-lateral{
-        font-size: 0.001%;
-	} 
+        font-size: 0.003%;
+    } 
 }
 .cuerpo-principal {
     background: #897088;
@@ -16,13 +16,13 @@ html{
     background-color: #060609;
     color: #d7d6ee; /* color texto */
     font-size: 200%;
-    width: 35%;
+    width: 30%;
     height: 100%;
     top:0; /* pegada arriba*/
     left: 0; /* pegada a la derecha*/
     position: fixed; /* posición fija */
     padding-left: 3%;
-    padding-right: 2%;
+    padding-right: 1%;
 }
 footer{
     color: azure;
