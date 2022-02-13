@@ -2,9 +2,9 @@ html{
     background-color: #060609;
     margin: -1%;
 }
-@media screen and (max-width: 480px){
+@media screen and (max-width: 730px){
    .menu-lateral{
-        font-size: 30%;
+        font-size: 70%;
 	} 
 }
 .cuerpo-principal {
