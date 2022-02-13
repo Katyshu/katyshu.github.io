@@ -1,6 +1,6 @@
 html{
     background-color: #060609;
-    font-size: large;
+    /*font-size: large;*/
     margin: -1%;
 }
 .cuerpo-principal {
@@ -11,7 +11,7 @@ html{
 .menu-lateral {
     background-color: #060609;
     color: #d7d6ee; /* color texto */
-    font-size: large;
+    font-size: larger;
     width: 35%;
     height: 100%;
     top:0; /* pegada arriba*/
