@@ -2,6 +2,11 @@ html{
     background-color: #060609;
     margin: -1%;
 }
+@media screen and (max-width: 480px){
+   .menu-lateral{
+        font-size: 30%;
+	} 
+}
 .cuerpo-principal {
     background: #897088;
     margin-left: 38%;
@@ -10,7 +15,7 @@ html{
 .menu-lateral {
     background-color: #060609;
     color: #d7d6ee; /* color texto */
-    font-size: 120;
+    font-size: 120%;
     width: 35%;
     height: 100%;
     top:0; /* pegada arriba*/
