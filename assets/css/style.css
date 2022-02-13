@@ -4,7 +4,7 @@ html{
 }
 @media screen and (max-width: 730px){
    .menu-lateral{
-        font-size: 0.5rem;
+        font-size: 0.1rem;
     } 
 }
 .cuerpo-principal {
@@ -15,7 +15,7 @@ html{
 .menu-lateral {
     background-color: #060609;
     color: #d7d6ee; /* color texto */
-    font-size: 2rem;
+    font-size: 1.7rem;
     width: 30%;
     height: 100%;
     top:0; /* pegada arriba*/
