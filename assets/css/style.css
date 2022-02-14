@@ -1,33 +1,31 @@
-html{
-    background-color: #060609;
-    margin: -1%;
+body{
+    margin: 0%;
+    padding: 0%;
 }
-@media screen and (max-width: 730px){
+@media (max-width: 500px) and (min-width: 5px){
    .menu-lateral{
-        font-size: 0.1rem;
+        font-size: 0.45rem;
     } 
 }
 .cuerpo-principal {
-    background: #897088;
-    margin-left: 38%;
-    padding: 3%;
+    float: right;
+    width: 71%;
+    margin: 0;
+    padding: 1%;
 }
 .menu-lateral {
-    background-color: #060609;
-    color: #d7d6ee; /* color texto */
-    font-size: 1.7rem;
-    width: 30%;
+    float: left;
+    width: 25%;
     height: 100%;
-    top:0; /* pegada arriba*/
-    left: 0; /* pegada a la derecha*/
+    background-color: #060609;
+    margin: 0;
+    padding: 1%;
+    color: #d7d6ee; /* color texto */
     position: fixed; /* posición fija */
-    padding-left: 3%;
-    padding-right: 1%;
 }
 footer{
-    color: azure;
     text-align: right;
-    width: 99%;
+    width: 98%;
     position: fixed;
-    bottom: 1%;
+    bottom: 2%;
 }
