@@ -20,11 +20,11 @@ body{
     background-color: #060609;
     margin: 0;
     padding: 1%;
-    color: #d7d6ee; /* color texto */
+    color: #F8EBFF; /* color texto */
     position: fixed; /* posición fija */
 }
 .menu-lateral a{
-    color:#d7d6ee;
+    color:#F8EBFF;
     text-decoration: none;
 }
 .menu-lateral a:hover {
@@ -37,5 +37,5 @@ footer{
     text-align: right;
     width: 98%;
     position: fixed;
-    bottom: 3%;
+    bottom: 3.5%;
 }
