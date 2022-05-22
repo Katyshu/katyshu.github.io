@@ -1,0 +1,13 @@
+.menu-principal {
+  padding: 15px;
+  width: 100%;
+}
+
+.list-group {
+  margin-left: 15px;
+}
+
+.list-group .list-group-item-action:hover {
+  background-color: #717171;
+  color: #ffffff;
+}
